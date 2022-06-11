@@ -1,25 +1,25 @@
 
   
 var data = {
-  name : 'srikanth kasireddy',
+  name : 'saikiran chatlapalli',
   bio: [
-    {name: 'Name', value: 'srikanth kasireddy'},
-    {name: 'Email', value: 'kasireddysrikanth27@gmail.com'},
-    {name: 'Phone', value: '9848282503'},
+    {name: 'Name', value: 'saikiran chatlapalli'},
+    {name: 'Email', value: 'saikiranchatlapalli84@gmail.com'},
+    {name: 'Phone', value: '8374242180'},
     {name: 'Country', value: 'India'},
     {name: 'City', value: 'Hyderabad'}
   ],
-  github: 'srikanth-11',
+  github: 'CSaiKiran8',
   projects: [
-    {name: 'Questionsoverflow', url: 'https://sri-questionsoverflow.netlify.app'},
-    {name: 'Uploader', url: 'https://sri-uploader.netlify.app'},
-    {name: 'Socialize', url: 'https://sri-socialize.netlify.app'},
-    {name: 'Tasksubmission', url: 'https://sri-tasksubmission.netlify.app'},
+    {name: 'Todo App', url: 'https://todo-app-kiran.netlify.app/'},
+    {name: 'QuestionsOverflow', url: 'https://questionsoverflow-kiran.netlify.app/'},
+    {name: 'Blog App', url: 'https://blog-app-kiran.netlify.app/'},
+    {name: 'Chat App', url: 'https://chat-app-kiran.netlify.app/'},
   ],
-  resume: 'https://sri-resume.netlify.app',
+  resume: 'https://kiran-resume.netlify.app/',
   socials: [
-    {name: 'LinkedIn', url: 'https://linkedin.com/in/srikanth-11'},
-    {name: 'GitHub', url: 'https://github.com/srikanth-11'},
+    {name: 'LinkedIn', url: 'https://www.linkedin.com/in/sai-kiran-chatlapalli-6154b9201/'},
+    {name: 'GitHub', url: 'https://github.com/CSaiKiran8'},
     
   ]
 }
